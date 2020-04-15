@@ -1,7 +1,9 @@
 def main(msg):
-// no longer need coments
+// ne trebamo komentare
 // print a message
 >>>>>>> refs/remotes/origin/master
     print (msg)
 
 main("hello people")
+def secondary():
+print ("new function")
