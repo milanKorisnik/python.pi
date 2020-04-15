@@ -1,8 +1,5 @@
 def main(msg):
-<<<<<<< HEAD
-//jos jedan komentar
-    //dodavanje drugacijeg komentara
-
+// no longer need coments
 // print a message
 >>>>>>> refs/remotes/origin/master
     print (msg)
