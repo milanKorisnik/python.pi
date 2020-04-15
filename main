@@ -3,7 +3,7 @@ def main(msg):
 // print a message
 >>>>>>> refs/remotes/origin/master
     print (msg)
-
+//jos jednom smo dodali
 main("hello people")
 def secondary():
 print ("new function")
