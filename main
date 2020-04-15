@@ -1,5 +1,6 @@
 def main(msg):
 <<<<<<< HEAD
+//jos jedan komentar
     //dodavanje drugacijeg komentara
 
 // print a message
